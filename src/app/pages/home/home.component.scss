@@ -1,0 +1,6 @@
+.sidenav-drawer {
+  outline: 1px solid #a8a8a8be;
+}
+::ng-deep mat-drawer-content {
+  background-color: #fff !important;
+}
